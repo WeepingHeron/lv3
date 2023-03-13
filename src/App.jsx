@@ -33,7 +33,7 @@ const App = () => {
       <StInputGroup>
         <h1>Input</h1>
         이름<StInput /> 가격<StInput />
-        <StButton3 >저장</StButton3>
+        <StButton3>저장</StButton3>
       </StInputGroup>
       <StModalGroup>
         <h1>Modal</h1>
